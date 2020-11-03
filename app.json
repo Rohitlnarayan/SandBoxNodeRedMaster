@@ -1,6 +1,6 @@
 {
   "name": "Node-RED",
-  "description": "A visual tool for wiring the Internet of Things, for Heroku deployment.",
+  "description": "Heroku deployment.",
   "keywords": [ "Node-RED", "IoT", "Internet of Things", "node.js", "Node", "NodeRED", "Nodejs", "Blynk", "Blynk Cloud" ],
   "website": "http://nodered.org/",
   "repository": "https://github.com/Rohitlnarayan/SandBoxNodeRedMaster.git",
