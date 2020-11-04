@@ -13,6 +13,6 @@
 # 4. Fork this repo, Set your github as deploy source on Heroku setting, and enable Automatic Deployment
 * Push downloaded "flows.json" file to your repo on github.
 * Every time "flows.json" pushed to your repo, Heroku will rebuild node-red with updated "flows.json".
-* So your node-red will always have latest pushed "flows.json" when Heroku dynos restarted.
+* So your node-red will always have latest pushed "flows.json" when Heroku restarted.
 
 
